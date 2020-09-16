@@ -1,2 +1,8 @@
-# resultado de 4 < 2
-print(type(4<2))
+numero=2
+if numero > 4 ==0:
+    print("falso")
+
+
+print ("falso")
+
+
