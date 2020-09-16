@@ -1,5 +1,10 @@
 # entrada de datos
-print ("escriba su nombre")
-nombre =input
+
+usurario=input
+print ("escriba su nombre") # string texto
+print ((type)nombre )
+nombre =input 
 input ()
+print ("bienvenido: " + nombre)
+
 
