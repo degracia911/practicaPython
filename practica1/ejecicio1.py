@@ -1,8 +1,2 @@
-numero=2
-if numero > 4 ==0:
-    print("falso")
-
-
-print ("falso")
-
+print ( 4 < 2)
 
