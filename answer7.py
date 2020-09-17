@@ -1,8 +1,15 @@
-A=95 
-print ((int(nota) "escriba la nota: ")
-print (type (nota)
-print ( "la nota es: ")
-input ()
+numero !=1
+while numero = 0:
+numero = int (input("ingrese un numero:"))
+
+
+
+
+
+
+
+
+
 
 
 
