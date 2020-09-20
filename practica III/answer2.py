@@ -1,14 +1,4 @@
-#funciones en python
-def=nombrar():
-    pass
+def esta_en_rango(rango, numero): 
+    return numero in range(*rango)
 
-
-print("Hola")
-
-#invocar
-nombrar()
-
-
-#parametro
-def nombrar(numero):
-print(nombrar + numero)
+print(esta_en_rango([1, 10], 3 ))
